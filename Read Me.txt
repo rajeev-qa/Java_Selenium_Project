@@ -1,0 +1,21 @@
+		       OPEN AND ADD PROJRCT IN ECLIPSE
+
+1)Download and install Eclipse IDE
+2)Import /Open Project With File System/ Extract file and pest in eclipse workplace
+3)Download TestNG with Eclipse Marketplace
+4)Configure Bild Path of particular project 
+
+			CONFIGURE BUILD PATH
+5)Click on Libraries Tab
+6)Select Classpath 
+7)Add External JARs from selenium folder that present in KloudShip folder/selenium-driver
+
+			CONFIGURE DRIVER PATH
+8)Open KloudShip folder
+9)Open src 
+10)Open test_KloudShip package
+11)Open Test_Data.java file
+11)Change the driver path (Driver present in KloudShip Folder/drivers )
+  		
+			 RUN TEST
+12)Left Click on Test_Data.java file and run with testNG
